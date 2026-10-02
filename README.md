@@ -1,6 +1,8 @@
-# go-mcp
+# mappa
 
-A template for an MCP server written in Go.
+> Warning: This repo is not ready. Do not use it.
+
+A Go lib and MCP server for generating, saving, and travelling within a randomly generated map.
 
 ## Local Development
 
